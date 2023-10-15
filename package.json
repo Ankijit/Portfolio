@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankijit/Portfolio.git"
+  },
+  "author": "Ankijit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankijit/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Ankijit/Portfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.4"
+  }
+}

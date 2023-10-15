@@ -1,0 +1,65 @@
+.logo img {
+    width: 84px;
+}
+
+
+#menu li a {
+font-size: 1.3rem;
+    margin-right: 1.8rem;
+}
+.bn632-hover {
+width: 101px;
+margin: 23px;
+}
+
+/* about me */
+
+
+#aboutme {
+    margin: 58px 13px;
+
+}
+
+
+#aboutme>h1 {
+    font-size: 40px;
+    padding-bottom: 60px;
+}
+
+.description h1 {
+    font-size: 36px;
+}
+.description p {
+    font-size: 13px;
+    text-align: justify;
+}
+
+.tab {
+    margin: 23px 31px 25px 0px;
+    font-size: 13px;
+}
+
+.tabdescription {
+    font-size: 13px;
+    text-align: justify;
+}
+
+
+/* service */
+#services>h1 {
+ 
+        font-size: 40px;
+        padding-bottom: 33px;
+}
+
+
+.service h1{
+    font-size: 18px;
+    padding-top: 10px;
+
+}
+
+.service i{
+    font-size: 2rem;
+
+}

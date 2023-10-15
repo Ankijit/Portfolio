@@ -1,0 +1,66 @@
+
+.logo img {
+    width: 61px;
+}
+.cover{
+    background-image: url("../IMAGES/phone.png");
+    display: block
+}
+
+.cover div{
+    margin-top: 41%;
+   
+}
+#menumain {
+    display: flex;
+    position: fixed;
+    flex-direction: column;
+    right: -200px;
+    text-align: right;
+    top: 85px;
+    height: 100%;
+   background-color: black;
+   border: 2px solid #00aedd;
+    min-height: 100vh;
+    padding: 31px 0px 0px 28px;
+    line-height: 2.3;
+    transition: 0.5s all;
+    z-index: 1;
+}
+
+#menumain li a {
+    font-size: 19px;
+    z-index: 1;
+}
+
+#responsivemenu {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    padding-right: 40px;
+    z-index: 2;
+}
+
+.logo img {
+    width: 80px;
+}
+
+#bar1,
+#bar2,
+#bar3 {
+    background-color: #68d9fe;
+    width: 20px;
+    height: 3px;
+    margin-top: 4px;
+    transition: all 0.5s;
+}
+
+
+.servicetab {
+    grid-template-columns: 1fr;
+}
+
+.tab {
+    margin: 18px 14px 24px 0px;
+    font-size: 13px;
+}
